@@ -2,7 +2,7 @@ Hello Teachers . This is my cybersecurity site frontend project.
 
 
 Link to SITE : file:///C:/Users/Nursultan/Downloads/cybersecuritysite-front-final/site/index.html
-
+ 
 Link to Presenttion : https://www.canva.com/design/DAGHLM7Ev5Q/uZktcbfvumWkrTViI-BvZg/edit?utm_content=DAGHLM7Ev5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
