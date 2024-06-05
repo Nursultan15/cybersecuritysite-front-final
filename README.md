@@ -1,4 +1,4 @@
-Hello Teachers . This is my cybersecurity site project.
+Hello Teachers . This is my cybersecurity site frontend project.
 
 
 Link to SITE : file:///C:/Users/Nursultan/Downloads/cybersecuritysite-front-final/site/index.html
